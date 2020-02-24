@@ -3,6 +3,7 @@
   
 <channel>
 <title>Our latest jobs</title>
+<description></description>
 <item>
 <title>Senior Tax Advisor</title>
 <link>
@@ -14,6 +15,7 @@ https://www.robertwalters.com.au/accountancyfinance/jobs/newlyqualifiedaccountan
 <link>https://www.robertwalters.com.au/accountancyfinance/jobs/newlyqualifiedaccountant/1357749-senior-tax-advisor.html
 </link>
 </image>
+<guid>https://www.robertwalters.com.au</guid>
 </item>
 <item>
 <title>Project Architect</title>
@@ -26,6 +28,7 @@ https://www.robertwalters.com.au/miningengineeringoperations/jobs/drafting/13577
 <link>https://www.robertwalters.com.au/miningengineeringoperations/jobs/drafting/1357760-project-architect.html
 </link>
 </image>
+<guid>https://www.robertwalters.com.au</guid>
 </item>
 <item>
 <title>Project Manager</title>
@@ -37,7 +40,9 @@ https://www.robertwalters.com.au/miningengineeringoperations/jobs/drafting/13577
 <link>https://www.robertwalters.com.au/informationtechnology/jobs/projectmanagementitmanagement/1357743-project-manager.html
 </link>
 </image>
+<guid>https://www.robertwalters.com.au</guid>
 </item>
+<link></link>
 </channel>
 
 </rss>
